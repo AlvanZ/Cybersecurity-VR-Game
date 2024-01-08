@@ -1,0 +1,144 @@
+{
+    "answers": [
+        {
+            "question": "How old are you?",
+            "selectedAnswer": "0-18"
+        },
+        {
+            "question": "What's your gender?",
+            "selectedAnswer": "Other"
+        },
+        {
+            "question": "Highest Level of Education",
+            "selectedAnswer": "Master's"
+        },
+        {
+            "question": "How often do you use the internet?",
+            "selectedAnswer": "Not often"
+        },
+        {
+            "question": "Which primary device do you use to access the internet?",
+            "selectedAnswer": "Laptop"
+        },
+        {
+            "question": "How old are you?",
+            "selectedAnswer": "60+"
+        },
+        {
+            "question": "What's your gender?",
+            "selectedAnswer": "Male"
+        },
+        {
+            "question": "Highest Level of Education",
+            "selectedAnswer": "Ph.D"
+        },
+        {
+            "question": "How often do you use the internet?",
+            "selectedAnswer": "Very Often"
+        },
+        {
+            "question": "Which primary device do you use to access the internet?",
+            "selectedAnswer": "Laptop"
+        },
+        {
+            "question": "How old are you?",
+            "selectedAnswer": "19-30"
+        },
+        {
+            "question": "What's your gender?",
+            "selectedAnswer": "Other"
+        },
+        {
+            "question": "Highest Level of Education",
+            "selectedAnswer": "Master's"
+        },
+        {
+            "question": "How often do you use the internet?",
+            "selectedAnswer": "Very Often"
+        },
+        {
+            "question": "Which primary device do you use to access the internet?",
+            "selectedAnswer": "Android"
+        },
+        {
+            "question": "How did you find the overall difficulty of the game?",
+            "selectedAnswer": "Really hard, I struggled a lot."
+        },
+        {
+            "question": "2. What did you think of the game's storyline and narrative?  ",
+            "selectedAnswer": "Engaging and captivating, I was hooked!"
+        },
+        {
+            "question": "How would you rate the game's controls and mechanics?",
+            "selectedAnswer": "Mostly good, a few hiccups here and there."
+        },
+        {
+            "question": "Did the VR experience enhance your gameplay?",
+            "selectedAnswer": "Not really, felt more like a gimmick."
+        },
+        {
+            "question": "Would you recommend this game to a friend?",
+            "selectedAnswer": "Probably not, it wasn't my favorite."
+        },
+        {
+            "question": "How old are you?",
+            "selectedAnswer": "60+"
+        },
+        {
+            "question": "What's your gender?",
+            "selectedAnswer": "Female"
+        },
+        {
+            "question": "Highest Level of Education",
+            "selectedAnswer": "High School"
+        },
+        {
+            "question": "How often do you use the internet?",
+            "selectedAnswer": "Not often"
+        },
+        {
+            "question": "Which primary device do you use to access the internet?",
+            "selectedAnswer": "Desktop"
+        },
+        {
+            "question": "How old are you?",
+            "selectedAnswer": "60+"
+        },
+        {
+            "question": "What's your gender?",
+            "selectedAnswer": "Male"
+        },
+        {
+            "question": "Highest Level of Education",
+            "selectedAnswer": "Ph.D"
+        },
+        {
+            "question": "How often do you use the internet?",
+            "selectedAnswer": "Very Often"
+        },
+        {
+            "question": "Which primary device do you use to access the internet?",
+            "selectedAnswer": "Desktop"
+        },
+        {
+            "question": "How old are you?",
+            "selectedAnswer": "31-60"
+        },
+        {
+            "question": "What's your gender?",
+            "selectedAnswer": "Other"
+        },
+        {
+            "question": "Highest Level of Education",
+            "selectedAnswer": "Bachelor's"
+        },
+        {
+            "question": "How often do you use the internet?",
+            "selectedAnswer": "Very Often"
+        },
+        {
+            "question": "Which primary device do you use to access the internet?",
+            "selectedAnswer": "Iphone"
+        }
+    ]
+}
