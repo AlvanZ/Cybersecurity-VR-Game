@@ -1,0 +1,70 @@
+{
+    "gameDataList": [
+        {
+            "maxRoundReached": 6,
+            "totalQuestionsRight": 3,
+            "timePerQuestion": [
+                16.95309829711914,
+                40.10692596435547,
+                10.368331909179688
+            ],
+            "totalPlaytime": 293.5
+        },
+        {
+            "maxRoundReached": 6,
+            "totalQuestionsRight": 3,
+            "timePerQuestion": [
+                16.95309829711914,
+                40.10692596435547,
+                10.368331909179688
+            ],
+            "totalPlaytime": 294.6999816894531
+        },
+        {
+            "maxRoundReached": 6,
+            "totalQuestionsRight": 3,
+            "timePerQuestion": [
+                16.95309829711914,
+                40.10692596435547,
+                10.368331909179688
+            ],
+            "totalPlaytime": 294.8599853515625
+        },
+        {
+            "maxRoundReached": 6,
+            "totalQuestionsRight": 3,
+            "timePerQuestion": [
+                16.95309829711914,
+                40.10692596435547,
+                10.368331909179688
+            ],
+            "totalPlaytime": 295.05999755859377
+        },
+        {
+            "maxRoundReached": 6,
+            "totalQuestionsRight": 3,
+            "timePerQuestion": [
+                16.95309829711914,
+                40.10692596435547,
+                10.368331909179688
+            ],
+            "totalPlaytime": 296.4599914550781
+        },
+        {
+            "maxRoundReached": 5,
+            "totalQuestionsRight": 1,
+            "timePerQuestion": [
+                3.1218910217285158
+            ],
+            "totalPlaytime": 201.77999877929688
+        },
+        {
+            "maxRoundReached": 5,
+            "totalQuestionsRight": 1,
+            "timePerQuestion": [
+                3.1218910217285158
+            ],
+            "totalPlaytime": 202.27999877929688
+        }
+    ]
+}
